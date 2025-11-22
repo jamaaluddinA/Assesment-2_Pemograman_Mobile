@@ -29,4 +29,8 @@
   - menyimpan preferensi tema (`isDarkMode`)
   - menyimpan nama item terakhir (`last_added_item`)
 
+### Penjelasan untuk penggunaan aplikasi 
 
+disini penjelasan bagaimana aplikasi di gunakan untuk menyimpan data.
+
+https://youtu.be/lrnFyL79ba0
